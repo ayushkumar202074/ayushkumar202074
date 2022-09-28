@@ -1,6 +1,6 @@
 <h2 >Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30">, I'm Ayush Kumar! </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+ayush0402.*)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=import+ayush202074.*)](https://git.io/typing-svg)
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vigorous)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vigorous_/)
